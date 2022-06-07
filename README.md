@@ -6,4 +6,6 @@ I used it to compare the human peptidome to my reprence peptides.
 The input should be in FASTA format.
 
 send_needle_run_one_pep is faster version (using multiprocessing) of the function send_needle_run .
-the fasta peptidome file should be given as a deafult parameter.
+The fasta peptidome file should be given as a deafult parameter.
+
+df_creator - return df of the results.
